@@ -5,6 +5,8 @@ using UnityEngine;
 public class RFIDReader : MonoBehaviour {
 
 	public string gt;
+	public string[] ids;
+	public GameObject[] gos;
 
 	void Start()
 	{

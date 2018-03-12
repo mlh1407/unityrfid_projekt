@@ -225,6 +225,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gt: 
+  ids:
+  - A4 04 75 2E
+  - 49 9E AE D5
+  gos:
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!4 &1842295805
 Transform:
   m_ObjectHideFlags: 0
